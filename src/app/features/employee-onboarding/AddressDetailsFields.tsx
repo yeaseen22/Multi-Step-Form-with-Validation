@@ -31,7 +31,7 @@ export const AddressInfomation = () => {
 			<div className="space-y-6">
 				{/* Basic Employment Info */}
 				<div className="space-y-4">
-					<h2 className="text-lg font-medium">Basic Information</h2>
+					<h2 className="text-lg font-medium">Address Information</h2>
 					<div className="grid sm:grid-cols-1 md:grid-cols-2 gap-4">
 						<TextField<EmployeeFormValue>
 							name="personalInformation.homeAddress"

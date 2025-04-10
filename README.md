@@ -47,16 +47,7 @@ http://localhost:3000
 
 ## Folder Structure
 
-```
-├── components
-├── features/employee-onboarding
-├── schema
-├── public
-│   ├── screenshot-light.png
-│   ├── screenshot-dark.png
-├── pages
-└── styles
-```
+employee-onboarding-form/ ├── components/ ├── features/employee-onboarding/ ├── schema/ ├── hooks/ ├── lib/ ├── contexts/ ├── public/ │ ├── screenshot-light.png │ ├── screenshot-dark.png ├── styles/ ├── pages/ (or app/ for App Router) ├── layout.tsx ├── page.tsx ├── globals.css ├── next.config.ts ├── package.json ├── tsconfig.json └── README.md
 
 ## Notes
 
