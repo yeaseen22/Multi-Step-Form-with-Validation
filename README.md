@@ -46,8 +46,8 @@ http://localhost:3000
 ```
 
 ## Folder Structure
+![Light Mode Screenshot](./public/Screenshot%202025-04-10%20at%2011.47.00 PM.png)
 
-employee-onboarding-form/ ├── components/ ├── features/employee-onboarding/ ├── schema/ ├── hooks/ ├── lib/ ├── contexts/ ├── public/ │ ├── screenshot-light.png │ ├── screenshot-dark.png ├── styles/ ├── pages/ (or app/ for App Router) ├── layout.tsx ├── page.tsx ├── globals.css ├── next.config.ts ├── package.json ├── tsconfig.json └── README.md
 
 ## Notes
 
