@@ -21,7 +21,8 @@ This project is a multi-step Employee Onboarding Form built using:
 
 ### Light Mode
 
-![Light Mode Screenshot](./public/screenshot-light.png)
+![Light Mode Screenshot](./public/Screenshot%202025-04-10%20at%2010.45.02 PM.png)
+![Light Mode Screenshot](./public/Screenshot%202025-04-10%20at%2010.45.08 PM.png)
 
 
 ## Installation
